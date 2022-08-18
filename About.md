@@ -1,10 +1,4 @@
 
----
-layout: page
-title: 
-permalink: /About
-
----
 
 ## Welcome to GitHub Pages, Again!!!!
 
