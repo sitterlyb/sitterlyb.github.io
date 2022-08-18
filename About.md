@@ -1,7 +1,9 @@
+
 ---
 layout: page
-title: "About"
-permalink: /About.md
+title: 
+permalink: /About
+
 ---
 
 ## Welcome to GitHub Pages, Again!!!!
